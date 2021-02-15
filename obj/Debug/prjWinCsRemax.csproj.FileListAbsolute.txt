@@ -1,0 +1,36 @@
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\bin\Debug\prjWinCsRemax.exe.config
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\bin\Debug\prjWinCsRemax.exe
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\bin\Debug\prjWinCsRemax.pdb
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.csprojAssemblyReference.cache
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmMain.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmWelcome.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.Properties.Resources.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.csproj.GenerateResource.cache
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.csproj.CoreCompileInputs.cache
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.exe
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.pdb
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmClientData.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmClientsOperations.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmAgentData.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmAgentOperation.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmHouseData.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmHouseOperation.resources
+F:\Multi-Tier\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmSearch.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\bin\Debug\prjWinCsRemax.exe.config
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\bin\Debug\prjWinCsRemax.exe
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\bin\Debug\prjWinCsRemax.pdb
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.csprojAssemblyReference.cache
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmAgentData.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmAgentOperation.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmClientData.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmClientsOperations.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmHouseData.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmHouseOperation.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmMain.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmSearch.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.frmWelcome.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.Properties.Resources.resources
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.csproj.GenerateResource.cache
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.csproj.CoreCompileInputs.cache
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.exe
+F:\Downloads new\prjWinCsRemax\prjWinCsRemax\obj\Debug\prjWinCsRemax.pdb
